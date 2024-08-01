@@ -1,0 +1,14 @@
+keys.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+.env
+.flaskenv
+logs/
+*.log
+build/
+dist/
